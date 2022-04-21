@@ -3,7 +3,7 @@
 body {
     
     background-color: dimgrey;
-    font-family: Arial;
+    font-family: Helvetica;
 }
 
 textarea {
@@ -20,7 +20,7 @@ p {
     color: white;
     background-color: grey;
     border: none;
-    font-family: Arial
+    font-family: Helvetica
 }
 
 h1 {
