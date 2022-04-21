@@ -1,0 +1,30 @@
+
+
+body {
+    
+    background-color: dimgrey;
+    font-family: Arial;
+}
+
+textarea {
+    background-color: grey;
+    resize: none;
+    max-width: 99%;
+}
+
+p {
+    color: white;
+}
+
+.btn {
+    color: white;
+    background-color: grey;
+    border: none;
+    font-family: Arial
+}
+
+h1 {
+    color: white;
+}
+
+.btn:focus { outline-style: none; }
